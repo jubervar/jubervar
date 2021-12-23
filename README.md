@@ -2,7 +2,7 @@
 
 I am a physicist with great interest in the fields of data science and data analytics. My repositories contain case studies that showcase my work.
 
-## Skills
+### Skills
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-blue) ![](https://img.shields.io/badge/Language-Matlab-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange)
 
 <!--
