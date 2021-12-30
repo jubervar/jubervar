@@ -5,6 +5,10 @@ I am a physicist with great interest in the fields of data science and data anal
 ### Skills
 ![](https://img.shields.io/badge/Language-R-blue) ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-C++-blue) ![](https://img.shields.io/badge/Language-Matlab-blue) ![](https://img.shields.io/badge/Language-Excel-blue) ![](https://img.shields.io/badge/Tool-Tableau-red) ![](https://img.shields.io/badge/Theory-Statistics-orange)
 
+### Case Studies
+
+* Bellabeat: how can a wellness tech company play it smart? [here](https://github.com/jubervar/Google-Capstone-Project#readme)
+
 <!--
 **jubervar/jubervar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
